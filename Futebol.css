@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(158, 158, 158);
+
+}
+
+#título{
+    display:flex;
+    justify-content: center;
+    font-weight:bolder;
+    background-color: black;
+    color: white;
+    border-width: 10px;
+    border-color: black;
+    border-style:groove;
+    margin-top: 0px;
+}
+
+div{
+    display: flex;
+    justify-content:space-around;
+    align-content: space-between;
+    text-align-last: justify;
+    height: 445px;
+}
+
+.Corinthians{
+    border-width: 10px;
+    border-style:groove;
+    justify-items: center;
+    border-color: black;
+    color: white;
+    background-color: rgb(49, 46, 46) ;
+    font-size:x-large;
+    height: 400px; ;
+    width: 600px;
+    margin-bottom: 0px;
+    animation: reverse;
+  
+}
+ 
+
+#Timão{
+    width: 590px;
+    height: 310px;
+    margin-left: 5px;
+    margin-top: 7px;
+}
+
+
+#Cássio{
+    width: 590px;
+    height: 310px;
+    margin-left: 5px;
+    margin-top: 7px;
+
+}
+
+
+.links{
+    color:black;
+    text-shadow: 1px 1px 0px white;
+    text-size-adjust: 300px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+
+#local{
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 27px;
+    justify-content: left;
+    
+}
+
+.botão{
+    color: white;
+    background-color: black;
+    height: 30px; 
+}
+
+#link-GitHub{
+    text-decoration: none;
+    color: black;
+}
+
+#GitHub{
+    display: inline;
+    width: 50px;
+    height: 40px;
+    margin-top: -8px;
+    margin-left: 1000px;
+}
+
+#Ramon{
+    margin-top: 3px;
+}

@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(105, 4, 4);
+
+}
+
+#título{
+    display:flex;
+    justify-content: center;
+    font-weight:bolder;
+    background-color: rgb(71, 60, 2);
+    color: rgb(211, 187, 108);
+    border-width: 5px;
+    border-color: rgb(43, 33, 1);
+    border-style: solid;
+    box-shadow: 5px 5px 5px 10px  rgb(117, 91, 6);
+    margin-top: 0px;
+    font-family: Rowdies, display ;
+    text-shadow:  2px 2px 2px rgb(44, 1, 1);
+}
+
+#div1{
+    display: flex;
+    justify-content:space-around;
+    align-content: space-between;
+    text-align-last: justify;
+    height: 445px;
+}
+
+#Super-herói{
+    border-width: 10px;
+    border-style:groove;
+    justify-items: center;
+    border-color: rgb(105, 3, 3);
+    color: white;
+    background-color: rgb(2, 2, 87);
+    font-size:x-large;
+    height: 400px; ;
+    width: 600px;
+    margin-bottom: 0px;
+}
+
+#Spider-man2{
+    width: 595px;
+    height: 280px;
+    margin-top: 7px;
+    border-style: solid;
+    border-color: black;
+}
+
+#link-Spider-man{
+    color:rgb(255, 0, 0);
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Ficção-científica{
+    border-width: 10px;
+    border-style:groove;
+    justify-items: center;
+    border-color: rgb(207, 207, 203);
+    color: white;
+    background-color: rgb(125, 118, 153);
+     font-size:x-large;
+    height: 400px; ;
+    width: 600px;
+    margin-bottom: 0px;
+    animation: reverse;
+}
+
+#Interestelar{
+    width: 590px;
+    height: 310px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#link-interestelar{
+    color:rgb(9, 18, 73);
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#div2{
+    display: flex;
+    justify-content:space-around;
+    align-content: space-between;
+    text-align-last: justify;
+    height: 445px;
+}
+
+#Terror{
+    border-width: 10px;
+    border-style:groove;
+    justify-items: center;
+    border-color: rgb(0, 0, 0);
+    color: white;
+    background-color: rgb(21, 20, 24);
+     font-size:x-large;
+    height: 400px; ;
+    width: 600px;
+    margin-bottom: 0px;
+    animation: reverse;
+    text-shadow: 5px 2px 2px black;
+}
+
+#invocação-mal{
+    width: 590px;
+    height: 310px;
+    margin-left: 5px;
+    margin-top: 7px;
+}
+
+.links-terror{
+    color: black;
+    text-shadow: 2px 1px 0px white;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Cinema{
+    border-width: 10px;
+    border-style:groove;
+    justify-items: center;
+    border-color: rgb(105, 3, 3);
+    color: white;
+    background-color: rgb(2, 2, 87);
+    font-size:x-large;
+    height: 400px; ;
+    width: 600px;
+    margin-bottom: 0px;
+}
+
+#Aranhas{
+    width: 595px;
+    height: 310px;
+    margin-left: 0px;
+    margin-top: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+#link-Spider-man-now-way-home{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#local{
+    height: 60px;
+    margin-top: 15px;
+    margin-left: 23px;
+}
+
+.botão{
+    color: white;
+    background-color: black;
+}
